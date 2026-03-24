@@ -2,7 +2,7 @@
   BME450-project
 
 ## Team members
-  David Jugovic (djugovic2003), Terrence Downey (put your github name here)
+  David Jugovic (djugovic2003), Terence Downey (terrydowney)
 
 ### Project description
   Our project will focus on training a neural network to classify chest X-ray images as either normal or showing signs of pneumonia. Pneumonia is a lung infection that can be detected from images, and image classification using convolutional neural netowrks has been used for this type of medical diagnosis. The goal is to apply deep learning techniques to train and evaluate different neural network architectures on a real medical imaging dataset.
