@@ -1,0 +1,5 @@
+pytorch_env/
+chest_xray/
+__pycache__/
+*.pyc
+*.png
